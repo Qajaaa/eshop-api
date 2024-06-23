@@ -1,0 +1,45 @@
+[
+
+        {
+            "id": 1,
+            "nazev": "Taste of the Wild Wetlands konzerva 390 g",
+            "popis": "TOTW Wetlands konzerva 390 g - unikátní masová konzerva špičkového složení - vynikající kvalita a původ surovin je zárukou dokonalé výživy i chuti. Wetlands je receptura složena ze špičkového kachního masa, bylinek, zeleniny a minerálů. Ideální zdroj bílkovin a minerálů. Váš pes Vás bude milovat!",
+            "cena": "605",
+            "foto": "https://www.spokojenypes.cz/taste-of-the-wild-wetlands-konzerva-390-g-img-hpf-1790_neww-fd-3.jpg"
+          },
+          {
+            "id": 2,
+            "nazev": "Plyšový dlouhán Trixie",
+            "popis": "Zapomeňte na nudné hračky a zpestřete si dovádění veselým dlouhánem! Měkoučký a usměvavý Trixie dlouhán se zvukem pro všechny pejsky a štěňata. Jeho dlouhý tvar se přímo nabízí k aportování nebo přetahování. Je ušit z jemného a příjemného plyše, který nepoškozuje zuby.",
+            "cena": "86",
+            "foto": "https://www.spokojenypes.cz/plysovy-dlouhan-trixie-mix-barev-35-cm-img-g14-35872_new-fd-3.jpg"
+          },
+          {
+            "id": 3,
+            "nazev": "Ferplast Queen pelíšek pro psy a kočky růžový",
+            "popis": "Dokonale komfortní pelíšek pro mrňousky. Ferplast Queen potěší nejen pohodlím, ale také možností změny barvy. Přetočením z růžového uděláte šedý. Výhodou je velmi kvalitní materiál a také možnost praní v pračce.",
+            "cena": "879",
+            "foto": "https://www.spokojenypes.cz/ferplast-queen-pelisek-pro-psy-a-kocky-ruzovy-50-cm-img-83405001-fd-3.jpg"
+          },
+          {
+            "id": 4,
+            "nazev": "Mooria Marbles obojek",
+            "popis": "Obojky Mooria jsou vyrobeny z funkční voděodolné textilie. Základ tvoří pevný popruh, který je obšitý softshellem. Mají tak stejnou funkčnost a pevnost jako velmi rozšířené nylonové výrobky, navíc však nabízí atraktivní vzhled díky široké škále vzorů, potisků a barev. Všechny další prvky jako karabiny, spony a posuvky jsou mimořádně kvalitní a na vysoké úrovni zpracování. Každý obojek je nastavitelný, máte tak záruku, že vašemu pejskovi skvěle padne. K výrobě jsou použity pouze prověřené materiály od výrobců z Evropy a USA. Vyrobeno v České republice.",
+            "cena": "599",
+            "foto": "https://www.spokojenypes.cz/mooria-marbles-obojek-vel-m-img-mr01193-fd-3.jpg"
+          },
+          {
+            "id": 5,
+            "nazev": "Rogz AirTech sportovní opasek s vodítkem",
+            "popis": "Běhání, procházky, bloudění po horách, to vše společně a bez starostí s bezva výbavičkou Rogz AirTech. Opasek s amortizačním vodítkem umožní mít obě ruce volné a naplno si tak užívat oblíbenou aktivitu s vaším dobrodruhem. Nechybí kapsa na zip a očko pro zavěšení vodítka.",
+            "cena": "1 599",
+            "foto": "https://www.spokojenypes.cz/rogz-airtech-sportovni-opasek-s-voditkem-okrovy-vel-l-xl-img-hlsb85lxl-o-fd-3.jpg"
+          },
+          {
+            "id": 6,
+            "nazev": "Hurtta obleček Expedition Parka",
+            "popis": "Expedition Parka je nástupce nejoblíbenější zimní bundy pro psy Hurtta Winter Jacket. A je ještě lepší! Skvělý střih, stahování límce, vodní sloupec 10 000 mm., reflexní prvky nebo uzpůsobení délky zad. Hurtta Expedition Parka je ten nejlepší parťák do zimy!",
+            "cena": "2 069",
+            "foto": "https://www.spokojenypes.cz/hurtta-oblecek-expedition-parka-boruvkovy-40-cm-img-104665-fd-3.jpg"
+          }
+]
